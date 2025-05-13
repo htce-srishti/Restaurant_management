@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "pizza",
+        "price": 155.0
+    },
+    {
+        "id": 2,
+        "name": "golgappa",
+        "price": 40.0
+    },
+    {
+        "id": 3,
+        "name": "chowmin",
+        "price": 90.0
+    },
+    {
+        "id": 4,
+        "name": "apple",
+        "price": 120.0
+    }
+]
