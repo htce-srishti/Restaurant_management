@@ -1,0 +1,86 @@
+[
+    {
+        "bill_id": "647212a0",
+        "customer_name": "siddhant",
+        "items": [
+            {
+                "id": 1,
+                "name": "pizza",
+                "portion": "Full",
+                "price": 155.0,
+                "category": "Fast Food",
+                "quantity": 6
+            }
+        ],
+        "subtotal": 930.0,
+        "tax": 46.5,
+        "total": 976.5,
+        "date": "2025-05-17 21:25:26"
+    },
+    {
+        "bill_id": "d9ab3448",
+        "customer_name": "srishti",
+        "items": [
+            {
+                "id": 1,
+                "name": "pizza",
+                "portion": "Full",
+                "price": 155.0,
+                "category": "Fast Food",
+                "quantity": 12
+            }
+        ],
+        "subtotal": 1860.0,
+        "tax": 93.0,
+        "total": 1953.0,
+        "date": "2025-05-17 21:38:43"
+    },
+    {
+        "customer_name": "siddhant",
+        "items": [
+            {
+                "id": 12,
+                "name": "spring roll",
+                "portion": "full",
+                "price": 60.0,
+                "category": "Fast Food",
+                "quantity": 12
+            }
+        ],
+        "date": "2025-05-17 22:25:41",
+        "total_amount": 720.0,
+        "payment_method": "Cash"
+    },
+    {
+        "customer_name": "Sakshi",
+        "items": [
+            {
+                "id": 12,
+                "name": "spring roll",
+                "portion": "full",
+                "price": 60.0,
+                "category": "Fast Food",
+                "quantity": 6
+            }
+        ],
+        "date": "2025-05-17 22:39:32",
+        "total_amount": 360.0,
+        "payment_method": "Cash"
+    },
+    {
+        "customer_name": "srishti",
+        "items": [
+            {
+                "id": 12,
+                "name": "spring roll",
+                "portion": "full",
+                "price": 60.0,
+                "category": "Fast Food",
+                "quantity": 12
+            }
+        ],
+        "date": "2025-05-18 09:35:38",
+        "total_amount": 720.0,
+        "payment_method": "UPI"
+    }
+]
