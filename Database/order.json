@@ -1,0 +1,19 @@
+[
+    {
+        "order_id": "3fc94bf9",
+        "customer": "srishti",
+        "items": [
+            {
+                "id": 1,
+                "name": "pizza",
+                "portion": "Full",
+                "price": 155.0,
+                "category": "Main Course",
+                "quantity": 12
+            }
+        ],
+        "total": 1860.0,
+        "status": "completed",
+        "timestamp": "2025-05-16 09:49:52"
+    }
+]
