@@ -1,7 +1,7 @@
 import json
 import os
 
-ORDERS_FILE = os.path.join("database", "order.json")  # file name tumhare hisaab se singular rakha hai
+ORDERS_FILE = os.path.join("database", "order.json")  
 
 def load_orders():
     if not os.path.exists(ORDERS_FILE):
